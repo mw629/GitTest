@@ -2,7 +2,9 @@
 
 int main(){
 	
-	printf("sakana  kakkkakakak");
+	printf("sakana  kakkkakakak\n");
 	
+	printf("sakana?");
+
 	return 0;
 }

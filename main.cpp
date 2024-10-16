@@ -6,5 +6,7 @@ int main(){
 	
 	printf("sakana?");
 
+	printf("pullriqu");
+
 	return 0;
 }

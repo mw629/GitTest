@@ -6,7 +6,6 @@ int main(){
 	
 	printf("sakana?");
 
-	printf("pullriqu");
-
+	printf("•ÏX‚µ‚½");
 	return 0;
 }
